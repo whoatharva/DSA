@@ -26,6 +26,21 @@ Explore the following fundamental data structures and their basic operations:
 3. Run the code cells sequentially to observe the implementation of basic operations on different data structures.
 4. Feel free to experiment, modify the code, and collaborate with others to strengthen your understanding of data structures.
 
+## Acknowledgments
+
+I would like to express my gratitude to the following sources for their valuable contributions to this project:
+
+- [GeeksforGeeks](https://www.geeksforgeeks.org/): A tremendous resource for programming concepts and algorithms.
+- [JavaTpoint](https://www.javatpoint.com/): An excellent platform for learning Java and other technologies.
+- Various blogs and online forums: Numerous insightful articles and discussions from the programming community.
+- Image credits: Images used in this project are sourced from various blogs and websites. Special thanks to the respective creators and contributors.
+
+These resources have played a crucial role in shaping my understanding and providing inspiration during the development of this project. I highly recommend checking out these platforms for in-depth learning and exploration.
+
+If you recognize your work in this project and would like specific attribution, please reach out, and I'll be happy to include it.
+
+Thank you to the entire programming community for sharing knowledge and fostering a culture of learning and collaboration!
+
 Let's dive into the essential building blocks of programming together!
 
 ## Note
